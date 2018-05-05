@@ -1,0 +1,18 @@
+﻿  cg1.cpp
+e:\study\projects\cg1\cg1\cg1.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\study\projects\cg1\cg1\cg1.cpp(59): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\study\projects\cg1\cg1\cg1.cpp(62): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\study\projects\cg1\cg1\cg1.cpp(65): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\study\projects\cg1\cg1\cg1.cpp(81): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\study\projects\cg1\cg1\cg1.cpp(84): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\study\projects\cg1\cg1\cg1.cpp(87): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\study\projects\cg1\cg1\cg1.cpp(103): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\study\projects\cg1\cg1\cg1.cpp(106): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\study\projects\cg1\cg1\cg1.cpp(109): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\study\projects\cg1\cg1\cg1.cpp(567): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+e:\study\projects\cg1\cg1\cg1.cpp(23): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+  e:\study\projects\cg1\cg1\cg1.cpp(23): note: 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  e:\study\projects\cg1\cg1\cg1.cpp(23): note: 缺失的可变参数 2 为格式字符串“%c”所需
+  e:\study\projects\cg1\cg1\cg1.cpp(23): note: 此参数用作缓冲区大小
+  cg1.vcxproj -> E:\study\Projects\cg1\x64\Debug\cg1.exe
+  cg1.vcxproj -> E:\study\Projects\cg1\x64\Debug\cg1.pdb (Partial PDB)

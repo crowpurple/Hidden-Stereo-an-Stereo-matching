@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+e:\study\projects\cg1\cg1\stdafx.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\study\projects\cg1\cg1\stdafx.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\study\projects\cg1\cg1\targetver.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  cg1.cpp
+e:\study\projects\cg1\cg1\cg1.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  cg1.vcxproj -> E:\study\Projects\cg1\Debug\cg1.exe
+  cg1.vcxproj -> E:\study\Projects\cg1\Debug\cg1.pdb (Partial PDB)
